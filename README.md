@@ -1,13 +1,8 @@
 ### Hi there 👋
-
-<a href="mailto:wenqi71765@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-wenqi71765-d93025?style=flat-square&amp;logo=gmail&amp;logoColor=white">
-</a>
+<a href="mailto:wenqi71765@gmail.com"><img src="https://img.shields.io/badge/Gmail-wenqi71765-d93025?style=flat-square&amp;logo=gmail&amp;logoColor=white"></a>
 
 - 😆 I’m contributing on [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
 - 🌱 I’m currently learning `Japanese`
-
-<br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wenqi73&show_icons=true)](https://github.com/wenqi73/github-readme-stats)
 
