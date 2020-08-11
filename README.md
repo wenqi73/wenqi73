@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently maintaining on <a href="https://github.com/NG-ZORRO/ng-zorro-antd">`ng-zorro-antd`</a>.
+- 🌱 I’m currently learning `Japanese`.
+- 📫 How to reach me: <a href="mailto:wenqi71765@gmail.com" style="position:relative;top:4px"><img src="https://img.shields.io/badge/Gmail-wenqi71765-d93025?style=flat-square&amp;logo=gmail&amp;logoColor=white"></a>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wenqi73&show_icons=true)](https://github.com/wenqi73/github-readme-stats)
+
 <!--
 **wenqi73/wenqi73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
