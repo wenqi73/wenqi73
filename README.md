@@ -3,9 +3,10 @@
 -->
 
 - 😆 I’m contributing on [ng-zorro-antd](https://github.com/NG-ZORRO/ng-zorro-antd)
-- 🌱 I’m currently learning `Japanese`
 
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wenqi73&show_icons=true&hide=stars)](https://github-readme-stats.vercel.app/api?username=wenqi73&show_icons=true&hide=stars)
+-->
 
 <!--
 **wenqi73/wenqi73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
